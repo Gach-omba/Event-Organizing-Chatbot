@@ -1,6 +1,6 @@
 # My_events_chatbot
 This is an event organization chatbot
-It uses python, rasa framework , mysql database , socketio and SpacyNLP 
+It uses python, tensorflow, mysql database , socketio and SpacyNLP 
 It has the following capabilities : 
 It can help organize events
 It recommends events from the internet and those that have been organized by organizers using the chatbot

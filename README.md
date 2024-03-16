@@ -1,5 +1,5 @@
-# My_events_chatbot
-This is an event organization chatbot
+# Event-Organizing-chatbot
+This is an event organizing chatbot
 
 ## Technologies Uses
   1. Python

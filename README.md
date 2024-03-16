@@ -16,7 +16,7 @@ This is an event organization chatbot
   5. Recommend merchandise to event organizers
 ## Getting started 
 1. Install anaconda
-2. Install rasa in a Python Anaconda virtual environment. Follow the link https://www.youtube.com/watch?v=qmMaGicSFCU
+2. Install rasa in a Python Anaconda virtual environment. Follow the link https://www.youtube.com/watch?v=GlR60CvTh8A
 3. Install the modules in the actions.py file
 4. open two terminals in your virtual environment where rasa is installed
 5. In the first one, run rasa run actions
